@@ -1,16 +1,18 @@
-# weather_app
+# Proyecto de Clima
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Este es un proyecto sencillo de dos pantallas que consume una API de clima y muestra la información del clima basada en tu localización actual.
 
-This project is a starting point for a Flutter application.
+## Instalación y Ejecución
 
-A few resources to get you started if this is your first Flutter project:
+1. Clona este repositorio:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/JulianLopez2709/weather_flutter_sdk
+   cd proyecto-clima
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Instala las dependencias y ejecuta la aplicación con el siguiente comando:
+   ```bash
+   flutter pub get && flutter run
+
